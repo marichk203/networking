@@ -5,7 +5,7 @@
 #include "message.h"
 
 
-namespace beacor
+namespace vidnet
 {
 	namespace net
 	{
